@@ -1,0 +1,21 @@
+body{
+    background-color: #868e96 ;
+}
+.main{
+    margin-top: -50px;
+}
+
+
+#header {
+    font-size: 3rem;
+}
+.book-list {
+    margin-top: 50px;
+    visibility:hidden;
+}
+.footer{
+    margin-bottom: -50px;
+} 
+.card{
+    margin-bottom: 60px;
+}
